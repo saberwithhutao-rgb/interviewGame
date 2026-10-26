@@ -1,3 +1,4 @@
+# Unity generated
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,6 +6,9 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+WebGL_Build/
 *.csproj
 *.sln
 *.user
@@ -22,32 +26,19 @@ sysinfo.txt
 *.unitypackage
 *.app
 crashlytics-build.properties
-MemoryCaptures/
-Recordings/
-WebGL_Build/
 .plastic/
 
-# third-party asset packs, not committed
-/Assets/Music Loops Mini Set/
-/Assets/Free Pack/
-/Assets/RPG_FPS_game_assets_industrial/
-/Assets/unity-chan!/
-/Assets/SazenGames/
-/Assets/Footsteps - Essentials/
-/Assets/Zombie/
-/Assets/Meshint Free Toon Assets/
-/Assets/Casual Game Sounds U6/
-
-Assets/Casual Game Sounds U6.meta
-Assets/Footsteps - Essentials.meta
-Assets/Music Loops Mini Set.meta
-Assets/RPG_FPS_game_assets_industrial.meta
-Assets/unity-chan!.meta
-Assets/SazenGames.meta
-Assets/Zombie.meta
-Assets/Meshint Free Toon Assets.meta
-
-/Assets/Scenes/Font/
-/Assets/Scenes/FBX/unity-chan!/
-Assets/Scenes/Font.meta
-Assets/Scenes/FBX/unity-chan!.meta
+# third-party asset packs (not committed, too heavy)
+/Assets/ThirdParty/Music Loops Mini Set/
+/Assets/ThirdParty/Free Pack/
+/Assets/ThirdParty/RPG_FPS_game_assets_industrial/
+/Assets/ThirdParty/unity-chan!/
+/Assets/ThirdParty/SazenGames/
+/Assets/ThirdParty/Footsteps - Essentials/
+/Assets/ThirdParty/Zombie/
+/Assets/ThirdParty/Meshint Free Toon Assets/
+/Assets/ThirdParty/Casual Game Sounds U6/
+/Assets/ThirdParty/Low Poly Weapons VOL.1/
+/Assets/ThirdParty/Font/
+/Assets/ThirdParty/FBX/unity-chan!/
+/Assets/ThirdParty/*.meta
