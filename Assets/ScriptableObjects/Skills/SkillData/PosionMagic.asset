@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee188a879b8dbec40b6bcbba4bb3123d, type: 3}
+  m_Name: PosionMagic
+  m_EditorClassIdentifier: 
+  skillId: 1001
+  skillType: 0
+  castType: 1
+  skillName: "\u6BD2\u9B54\u6CD5"
+  description: "\u5BF9\u654C\u4EBA\u9020\u6210100%\u5E73\u5747\u9B54\u6CD5\u80FD\u529B\u7684\u6BD2\u4F24\u5BB3"
+  icon: {fileID: 0}
+  cooldown: 0
+  castTime: 1
+  effectValue: 0
+  skillLevel: 1
+  expPerUse: 1
+  expToNextLevel: 0a000000320000008c0000002c010000260200008e03000078050000f8070000220b000000000000
+  skillPointCost: 100
+  mpCost: 10
+  effects:
+  - {fileID: 11400000, guid: 5d81560d9770879429327fa9bdeb8e42, type: 2}
+  passiveTrigger: 0

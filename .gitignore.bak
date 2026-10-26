@@ -1,0 +1,26 @@
+# Unity 必须忽略的
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+
+# Visual Studio 相关
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 打包文件
+*.exe
+*.apk
+*.aab

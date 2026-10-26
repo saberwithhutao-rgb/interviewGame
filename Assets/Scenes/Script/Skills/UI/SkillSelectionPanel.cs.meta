@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e4a39c7177113b41aa0a5cd90ca8ae1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panelRoot: {instanceID: 0}
+  - scrollRect: {instanceID: 0}
+  - content: {instanceID: 0}
+  - skillItemPrefab: {fileID: 5621817154054756056, guid: 2e84962c6c710ab408b0368cd27d8ebe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

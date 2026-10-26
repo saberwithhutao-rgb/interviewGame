@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 070c6f292c21d1345bbc6c33f3727e14, type: 3}
+  m_Name: Level_03
+  m_EditorClassIdentifier: 
+  levelName: "\u7B2C\u4E09\u5173"
+  killTarget: 3
+  timeLimit: 0
+  objectiveText: "\u7B2C\u4E09\u5173\n\u51FB\u67403\u4E2A\u654C\u4EBA"
+  playerDamageMult: 1
+  playerSpeedMult: 1
+  playerMaxHealthMult: 1
+  enemyHealthMult: 0.8
+  enemySpeedMult: 0.9
+  enemyDamageMult: 0.8
+  enemyPrefabs:
+  - {fileID: 6946711253558552937, guid: b7cd57945f9d6f94e95c1f1728da2946, type: 3}
+  - {fileID: 849063307070733955, guid: ad1eabf85f91aec4a904c2fca31a57f3, type: 3}
+  spawnCounts: 0200000001000000
+  buffPool:
+  - {fileID: 11400000, guid: fea4910dba832e54cb852290436bc5e3, type: 2}
+  - {fileID: 11400000, guid: 2da8d4f172864384da3ba75ed74b3122, type: 2}
+  - {fileID: 11400000, guid: ab23a6d509760274496e15c2f74d24ae, type: 2}
+  buffChoices: 2

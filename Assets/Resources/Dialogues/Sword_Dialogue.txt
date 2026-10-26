@@ -1,0 +1,10 @@
+rowType	id	speaker	content	nextId	conditionType	conditionValue	effectType	effectValue
+line	1	sword	你好	2				
+line	2	sword	我叫sword	3				
+line	3	sword	我需要你的帮助	4				
+option	4	玩家	可以	7				
+option	5	玩家	拒绝	8				
+option	6	玩家	考虑	9				
+line	7	sword	谢谢你	-1				
+line	8	sword	好吧	-1				
+line	9	sword	……	-1				

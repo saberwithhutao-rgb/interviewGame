@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee188a879b8dbec40b6bcbba4bb3123d, type: 3}
+  m_Name: Skill_Heal
+  m_EditorClassIdentifier: 
+  skillId: 1003
+  skillType: 0
+  skillName: "\u56DE\u8840"
+  description: "\u6D4B\u8BD5\u6280\u80FD\uFF0C\u8001\u5B9E\u8BF4\uFF0C\u9274\u5B9A\u66F4\u88AB\u7ECF\u5E38\u7528\u6765\u6D4B\u8BD5"
+  icon: {fileID: 0}
+  cooldown: 5
+  castTime: 0
+  hotkey: 0
+  effectValue: 30
+  skillLevel: 1
+  expPerUse: 1
+  expToNextLevel: 0a000000320000008c0000002c010000260200008e03000078050000f8070000220b000000000000
+  skillPointCost: 1
+  mpCost: 1
+  effects:
+  - {fileID: 11400000, guid: c26759ec938b3024fb7e8037998b124e, type: 2}
+  passiveTrigger: 0
